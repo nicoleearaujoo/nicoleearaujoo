@@ -1,5 +1,5 @@
-### bem-vindo ao meu perfil!🩷
-
+### bem-vindo ao meu perfil 🩷                                                                                                                                
+### meu nome é nicole araujo
 -estou estudando na Alura
 
 -estou me desenvolvendo na linguagem JavaScript
